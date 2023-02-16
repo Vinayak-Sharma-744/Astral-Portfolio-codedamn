@@ -8,7 +8,7 @@ body{
     background-image: url(assets/images/bg.jpg);
     background-size: contain;
     /* background-attachment: fixed; */
-    background-position: top;
+    /* background-position: top; */
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -18,10 +18,10 @@ body{
     padding-bottom: 200px;
 }
 
-.navbar li{
-    float:left;
-    list-style: none; 
-    margin: 13px 20px;
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 3px 12px;
 }
 .navbar li a{
     text-decoration: none;
@@ -29,18 +29,18 @@ body{
 .navbar li :hover{
     color: #ffffff;
 }
-.navbar i{
-    font-size: 50px;
+.navbar i {
+    font-size: 35px;
     color: #f2dfda;
 }
 
-.pointer{
+.pointer {
     width: 0;
     height: 0;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
     border-bottom: 30px solid #ffffff;
-    margin-left: -171px;
+    margin-left: -116px;
 }
 
 .main{
@@ -76,7 +76,7 @@ body{
     padding-top: 40px;
     padding-bottom: 20px;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 35px;
+    font-size: 4vw;
     font-weight: normal;
 }
 .textArea p{

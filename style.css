@@ -73,13 +73,13 @@ body {
 .textArea h1 {
     padding-bottom: 10px;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 4.5vw;
+    font-size: 3vw;
     font-weight: normal;
 }
 
 .textArea p {
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 2.5vw;
+    font-size: 1.5vw;
     color: rgb(174, 173, 173);
 }
 
