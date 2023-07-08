@@ -138,9 +138,9 @@ body{
     height: 38px;
     padding-left: 5px;
 }
-/* .input:nth-child(1){
+.input:nth-child(1){
     margin-right: 8px;
-} */
+}
 
 .message{
     background-color: rgb(241, 241, 241);
